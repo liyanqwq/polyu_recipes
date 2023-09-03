@@ -6,40 +6,42 @@
 
 | 品名/单位   | 单价 | 数量 | 价格 |
 | :---------- | :--- | :--- | ---- |
-| 全麦面包/片 | 0.9  | 2    | 1.8  |
+| 全麦面包/片 | 1.2  | 2    | 2.4  |
 | 鸡蛋/个     | 2.0  | 1    | 2.0  |
-| 鸡胸肉/份   | 1.8  | 1    | 1.8  |
-| 生菜/份     | 0.5  | 1    | 0.5  |
-| 总价        |      |      | 6.1  |
+| 鸡胸肉/份   | 2.0  | 1    | 2.0  |
+| 生菜/份     | 0.6  | 1    | 0.6  |
+| 总价        |      |      | 7.0  |
+| 售价        |      |      | 8.0  |
 
 ### 可选项
 
-| 品名/单位     | 单价 | 备注                           |
-| :------------ | :--- | :----------------------------- |
-| 培根/片       | 4.0  | 生鲜都是香港买的，所以挺贵的。 |
-| 进口花生酱/份 | 1.0  |                                |
-| 色拉酱/份     | 1.0  |                                |
+| 品名/单位 | 单价 | 备注                   |
+| :-------- | :--- | :--------------------- |
+| 培根/片   | 3.0  | 香港买的，所以挺贵的。 |
+| 火腿/片   | 2.0  |                        |
+| 花生酱/份 | 1.0  | 国外进口               |
+| 色拉酱/份 | 1.0  |                        |
 
- # Chicken Sandwich
+# Chicken Sandwich
 
- Chicken sandwich is made with whole wheat bread, which is healthier and suitable for breakfast.
+Chicken sandwiches are made with whole wheat bread and are healthier for breakfast.
 
- ### Recipe
+### Recipe
 
- | Ingredient/Unit | Price | Quantity | Total |
- | :------------- | :---- | :------- | :---- |
- | Whole Wheat Bread/Slice | 0.9 | 2 | 1.8 |
- | Egg/Each | 2.0 | 1 | 2.0 |
- | Chicken Breast/Portion | 1.8 | 1 | 1.8 |
- | Lettuce/Portion | 0.5 | 1 | 0.5 |
- | Total Price | | | 6.1 |
+| Name/Unit                | Unit price | Quantity | Price |
+| :----------------------- | :--------- | :------- | ----- |
+| Whole Wheat Bread/slice | 1.2        | 2        | 2.4   |
+| Egg/pcs                  | 2.0        | 1        | 2.0   |
+| Chicken Breast/serving   | 2.0        | 1        | 2.0   |
+| Lettuce/serving          | 0.6        | 1        | 0.6   |
+| Total Price              |            |          | 7.0   |
+| Selling Price            |            |          | 8.0   |
 
- ### Optional
+### Optional
 
- | Ingredient/Unit | Price | Note |
- | :------------- | :---- | :--- |
- | Bacon/Slice | 4.0 | Fresh ingredients are bought from Hong Kong, so they are quite expensive. |
- | Peanut Butter/Portion | 1.0 | |
- | Salad Dressing/Portion | 1.0 | |
-
-
+| Name/Unit              | Unit Price | Remarks                                          |
+| :--------------------- | :--------- | :----------------------------------------------- |
+| Bacon/slice            | 3.0        | Bought from Hong Kong, so it is quite expensive. |
+| Ham/slice              | 2.0        |                                                  |
+| Peanut Butter/serving  | 1.0        | Imported                                         |
+| Salad Dressing/serving | 1.0        |                                                  |
